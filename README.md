@@ -65,7 +65,7 @@
 1. 克隆项目
 ```bash
 git clone https://github.com/D6397/edge-tts-web-ui.git
-cd edge-tts-web----ui
+cd edge-tts-web-ui
 ```
 
 2. 安装依赖
